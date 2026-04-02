@@ -13,6 +13,6 @@
     } else {
         //volta para o formulario...
         //echo 'volta para o formulario';
-        echo"<script> alert('Seu usuario ou sua senha está errado'); window.location'formulario.php'; </script>";
+        header('Location: erro.php');
     }
 ?>
