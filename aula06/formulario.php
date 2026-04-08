@@ -29,7 +29,7 @@
         </nav>        
             <section class="bg-light py-5 form">
                 <div class="container">
-                    <form action="processa.php" method="POST">
+                    <form class="forms" action="processa.php" method="POST">
                         <div class="mb-3">
                             <label for="exampleInputEmail1" class="form-label">Email</label>
                             <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="email">

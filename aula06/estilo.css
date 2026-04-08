@@ -11749,6 +11749,18 @@ html {
 
 }
 .img{
-  height: 10px;
-  width: 10px;
+  height: 300px;
+  width: 300px;
+}
+.img2{
+  height: 300px;
+  width: 400px;
+}
+.forms{
+  margin-top: 4%;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+.secreto{
+  margin-top: 5%;
 }
