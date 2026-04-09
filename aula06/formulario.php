@@ -27,6 +27,7 @@
                     </div>
                 </div>
         </nav>        
+        <img src="img/banner.png" class="d-block w-75 banner" alt="...">
             <section class="bg-light py-5 form">
                 <div class="container">
                     <form class="forms" action="processa.php" method="POST">
